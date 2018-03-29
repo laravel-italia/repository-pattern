@@ -31,4 +31,4 @@ I Brand sono in grado di inserire videogiochi nella propria libreria elencandone
 - Brand d'appartenenza
 - Lista di emulatori sui quali il gioco è stato testato e perfettamente funzionante
 
-Per poter inserire un recenzione l'utente deve aver acquistato il videogame tramite PijaStoGioco.com e dare un voto da 1 a 10 ed una descrizione di massimo 100 caratteri.
+Per poter inserire un recensione l'utente deve aver acquistato il videogame tramite PijaStoGioco.com e dare un voto da 1 a 10 ed una descrizione di massimo 100 caratteri.
