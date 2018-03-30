@@ -154,11 +154,11 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        // App\Providers\BroadcastServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        PijaStoGioco\Providers\AppServiceProvider::class,
+        PijaStoGioco\Providers\AuthServiceProvider::class,
+        // PijaStoGioco\Providers\BroadcastServiceProvider::class,
+        PijaStoGioco\Providers\EventServiceProvider::class,
+        PijaStoGioco\Providers\RouteServiceProvider::class,
 
     ],
 
